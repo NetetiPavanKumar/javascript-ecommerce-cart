@@ -6,13 +6,21 @@ This project is a **frontend e-commerce cart and checkout system** built using *
 
 The primary goal of this project is to **practice and strengthen core JavaScript concepts** such as DOM manipulation, state management, modular code, and browser storage — **without using any frameworks or libraries**.
 
-To improve code organization skills, the same functionality is written in **two different structuring styles**:
-- Function-based structure
-- Class-based structure
+>To improve code organization skills, the same functionality is written in **two different structuring styles**:
+>- Function-based structure
+>- Class-based structure
 
 > ⚠️ Note:  
 > This project is **not focused on POP vs OOP comparison**.  
 > The different approaches are used only to explore **better JavaScript structuring**, while keeping the main focus on **Vanilla JavaScript fundamentals**.
+
+---
+
+## ⚙️ Live Demo
+
+- **Project Link 1 ( Javascript-Ecommerce-Cart Procedural Oriented Implementation)**:[https://javascript-ecommerce-cart-pop.netlify.app/](https://javascript-ecommerce-cart-pop.netlify.app/)
+
+- **Project Link 2 ( Javascript-Ecommerce-Cart Object Oriented Implementation)**:[https://javasacript-ecommerce-cart-oop.netlify.app/](https://javasacript-ecommerce-cart-oop.netlify.app/)
 
 ---
 
